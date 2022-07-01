@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maria Paula
 - 👀 I’m interested in Agile and Project Management
-- 🌱 I’m currently learning Scrum and Project Management Fundamentaks
+- 🌱 I’m currently learning Scrum and Project Management Fundamentals
 - 📫 How to reach me: by my email: mprinternacionais@gmail.com
 
 <!---
